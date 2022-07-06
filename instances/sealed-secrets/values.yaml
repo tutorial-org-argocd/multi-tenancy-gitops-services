@@ -3,7 +3,7 @@ global: {}
 sealed-secrets:
   image:
     repository: bitnami/sealed-secrets-controller
-    tag: v0.16.0
+    tag: v0.18.0
     pullPolicy: IfNotPresent
     pullSecret: ""
 
